@@ -8,4 +8,4 @@ Many of these international players bring unique skill sets and playing styles t
 
 Some of the most successful international players in recent years include Dirk Nowitzki from Germany, Giannis Antetokounmpo from Greece, Nikola Jokic from Serbia, and Luka Doncic from Slovenia. These players have not only achieved individual success, but have also helped to elevate the level of play and popularity of the NBA around the world.
 
-**WIP: [NBA Demographic Daashboard](https://public.tableau.com/shared/43H7XTZ2B?:display_count=n&:origin=viz_share_link)**
+**WIP: [NBA Demographic Dashboard](https://public.tableau.com/views/2022-2023NBADemographic/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)**
