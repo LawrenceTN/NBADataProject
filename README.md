@@ -6,6 +6,6 @@ Over the past few decades, the NBA has seen a significant increase in the number
 
 Many of these international players bring unique skill sets and playing styles that have helped them thrive in the NBA. For example, players from Europe and Australia tend to have strong fundamentals and team-oriented play, while players from Africa and South America often have impressive athleticism and physicality.
 
-Some of the most successful international players in recent years include Dirk Nowitzki from Germany, and Giannis Antetokounmpo from Greece, Nikola Jokic from Serbia, and Luka Doncic from Slovenia. These players have not only achieved individual success, but have also helped to elevate the level of play and popularity of the NBA around the world.
+Some of the most successful international players in recent years include Dirk Nowitzki from Germany, Giannis Antetokounmpo from Greece, Nikola Jokic from Serbia, and Luka Doncic from Slovenia. These players have not only achieved individual success, but have also helped to elevate the level of play and popularity of the NBA around the world.
 
 WIP: https://public.tableau.com/shared/43H7XTZ2B?:display_count=n&:origin=viz_share_link
